@@ -11,11 +11,11 @@
                         </h2>
 
                         <h2>
-                            {{ movie.title }}
+                            {{ movie.original_title }}
                         </h2>
 
                         <h2>
-                            {{ movie.title }}
+                            {{ movie.language }}
                         </h2>
 
                     </li>

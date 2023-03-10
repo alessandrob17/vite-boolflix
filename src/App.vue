@@ -1,7 +1,7 @@
 <script >
 import Header from './components/Header.vue';
 import Main from './components/Main.vue';
-import store from '.store';
+import store from './components/store.js';
 import axios from '.axios'
 
 export default {
